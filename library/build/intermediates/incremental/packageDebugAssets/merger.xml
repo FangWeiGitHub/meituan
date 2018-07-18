@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/zhaoliang/Desktop/SlidingMenu-master/PullToRefresh2/library/src/main/assets"/><source path="/Users/zhaoliang/Desktop/SlidingMenu-master/PullToRefresh2/library/build/intermediates/shader_assets/debug/compileDebugShaders/out"/></dataSet><dataSet config="debug"><source path="/Users/zhaoliang/Desktop/SlidingMenu-master/PullToRefresh2/library/src/debug/assets"/></dataSet></merger>
